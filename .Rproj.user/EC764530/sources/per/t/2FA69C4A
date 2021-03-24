@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600372778980.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2FA69C4A",
+    "lastKnownWriteTime" : 28429453691650143,
+    "last_content_update" : 1600372778980,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D34F097F",
+        "caption" : "acres",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=acres&cache_key=D34F097F",
+        "displayedObservations" : 56,
+        "environment" : "",
+        "object" : "acres",
+        "preview" : 0,
+        "totalObservations" : 56,
+        "variables" : 2
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

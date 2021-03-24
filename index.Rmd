@@ -1,0 +1,70 @@
+---
+title: "Proposed Northwest Florida Sentinel Landscape"
+output:
+  flexdashboard::flex_dashboard:
+    css: custom.css
+    social: menu
+    df_print: paged
+    navbar:
+    - {title: " ", align: center}
+    - {title: "", icon: "fas fa-info-circle fa-lg", align: right, href: "https://defenders.org/sites/default/files/2021-03/2021-03-11-Northwest-Florida-Sentinel-Landscape-Factsheet.pdf", target: "_blank"}
+    - {title: "", icon: "fa-question-circle fa-lg", align: right, href: "mailto:kwimmer@defenders.org?subject=Northwest Florida Sentinel Landscapes"}
+runtime: shiny
+---
+
+
+```{r setup, include = FALSE}
+
+```
+
+Map
+=======================================================================
+
+Column {data-width=1000}
+-----------------------------------------------------------------------
+
+<embed src="https://defenders-cci.org/app/microapps/NWFSL_embed/" width="100%" height="100%">
+
+
+
+
+
+
+User Guide
+=======================================================================
+
+Column {data-width=1000, .tabset}
+-----------------------------------------------------------------------
+
+### User Guide
+<embed src="https://defenders-cci.org/img/NWFSL_UserGuide.png" width="500px">
+
+1.  <b>Zoom:</b> Use to zoom in (+) or zoom out (-) on the map
+2.  <b>Home:</b> Use to return the map to its original extent
+3.  <b>My Location:</b> Use to return the map to your current location
+4.  <b>Print:</b> Print the map
+5.  <b>Layer List:</b> Click for a list of layers. Turn off and on by clicking the eye icon to the left of the layer name. Click on the triangle to the left of a layer group title to view all layers in the group. Click on the three lines next to each layer to view its symbol. 
+6.  <b>Basemap Gallery:</b> Use to change the base map style
+7.  <b>Measure:</b> Measure Distance on map
+8.  <b>Measure:</b> Measure Area on map
+9.  <b>Measure:</b> Clear Measurements
+10. <b>User Guide</b>
+11. <b>More Information:</b> Proposed Northwest Florida Sentinel Landscape Factsheet (pdf)
+12. <b>Contact Us:</b> Email Contact for more information
+13.	<b>Share:</b> Share on Social Media
+14. <b>Scale Bar</b>
+15. <b>Legend:</b> View symbology of all active layers on the map
+
+
+### Background
+
+The Interactive Northwest Florida Sentinel Landscape Map was developed by Defenders of Wildlife in support of the proposed Northwest Florida Sentinel Landscape. This interactive map overlays many data layers showing the opportunities and constraints for conservation of natural and working landscapes and to protect the missions of the region's five military installations. Data from many sources were incorporated into this map including: the Florida Natural Areas Inventory, Santa Rosa County, Florida Department of Environmental Protection, West Florida Regional Planning Council, University of Florida GeoPlan Center, USDA Natural Resources Conservation Service, Defenders of Wildlife, Florida Forest Service.
+
+
+
+Eglin Air Force Base, as the designated anchor military installation in northwestern Florida, is proposing to nominate the western portion of the Florida panhandle for federal designation as the Northwest Florida Sentinel Landscape. The goal of this proposal is to create an innovative partnership for collaboration and coordination among private landowners, conservationists, military installations, government agencies and others. This landscape-scale partnership could help ensure sustainability of agriculture and forestry, maintain our national defense capabilities and conserve Northwest Florida's natural resources. A [Sentinel Landscape designation](https://www.repi.mil/Large-Landscapes/Sentinel-Landscapes/) would provide its partners with greater access to funding and assistance from federal, state and local government and private sector programs to better address the complex and often conflicting demands of population growth, economic development, rural vitality, military readiness, and natural resource protection in Northwest Florida.
+
+<b>DISCLAIMER: THIS MAP WAS CREATED BY DEFENDERS OF WILDLIFE FOR FOR EDUCATIONAL PURPOSES ONLY.</b>
+
+<embed src="https://defenders-cci.org/img/DOW_small.png" width="75px">
+

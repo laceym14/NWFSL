@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600375364193.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2369325062",
+    "id" : "2FF31475",
+    "lastKnownWriteTime" : 1590508127,
+    "last_content_update" : 1590508127,
+    "path" : "C:/Users/mlacey/NWRs_spending/data_updater.R",
+    "project_path" : "data_updater.R",
+    "properties" : {
+    },
+    "relative_order" : 17,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

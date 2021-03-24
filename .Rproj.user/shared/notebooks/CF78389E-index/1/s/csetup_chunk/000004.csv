@@ -1,0 +1,5 @@
+"0","state_data <- left_join(nspp_state, n_intrastate, by = ""state"")
+"
+"2","Error in left_join(nspp_state, n_intrastate, by = ""state"") : 
+  object 'nspp_state' not found
+"

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600371499971.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "804C1CBD",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1600371499971,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4502DA09",
+        "caption" : "st_abb",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=st_abb&cache_key=4502DA09",
+        "displayedObservations" : "50",
+        "environment" : "",
+        "object" : "st_abb",
+        "preview" : "0",
+        "totalObservations" : "50",
+        "variables" : "2"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

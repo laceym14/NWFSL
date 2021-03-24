@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600284972440.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "56D4932F",
+    "lastKnownWriteTime" : 28429453691650143,
+    "last_content_update" : 1600284972440,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "78B576C5",
+        "caption" : "cost_state",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cost_state&cache_key=78B576C5",
+        "displayedObservations" : "56",
+        "environment" : "",
+        "object" : "cost_state",
+        "preview" : "0",
+        "totalObservations" : "56",
+        "variables" : "2"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

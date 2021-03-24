@@ -1,5 +1,3 @@
-# NWRs_spending
-A small flexdashboard to show state spending on national wildlife refuges.
+# Northwest Florida Sentinel Landscapes Web App
+A small flexdashboard containing NWFSL_embed web map.
 
-# NWFSL
-# NWFSL

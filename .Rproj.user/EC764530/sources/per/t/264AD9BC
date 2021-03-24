@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600282308696.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2215127806",
+    "id" : "264AD9BC",
+    "lastKnownWriteTime" : 1600374763,
+    "last_content_update" : 1600374763276,
+    "path" : "C:/Users/mlacey/NWRs_spending/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "55,46",
+        "scrollLine" : "39"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

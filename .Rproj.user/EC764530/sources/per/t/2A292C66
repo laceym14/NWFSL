@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600284970158.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2A292C66",
+    "lastKnownWriteTime" : 5292976843906638626,
+    "last_content_update" : 1600284970158,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "AB95BA85",
+        "caption" : "nwrs_state",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=nwrs_state&cache_key=AB95BA85",
+        "displayedObservations" : "56",
+        "environment" : "",
+        "object" : "nwrs_state",
+        "preview" : "0",
+        "totalObservations" : "56",
+        "variables" : "2"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

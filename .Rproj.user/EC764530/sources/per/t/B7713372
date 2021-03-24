@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600374112466.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1585918286",
+    "id" : "B7713372",
+    "lastKnownWriteTime" : 1590508127,
+    "last_content_update" : 1600374114742,
+    "path" : "C:/Users/mlacey/ESA_intrastate-master/index.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "122,36",
+        "last_setup_crc32" : "DC82E9C92b11bc1a",
+        "scrollLine" : "115"
+    },
+    "relative_order" : 15,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

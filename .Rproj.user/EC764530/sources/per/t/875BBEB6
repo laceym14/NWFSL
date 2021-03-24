@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600283345962.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "875BBEB6",
+    "lastKnownWriteTime" : 5292976843906638626,
+    "last_content_update" : 1600283345962,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B257BF72",
+        "caption" : "spp_nstate",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=spp_nstate&cache_key=B257BF72",
+        "displayedObservations" : "56",
+        "environment" : "",
+        "object" : "spp_nstate",
+        "preview" : "0",
+        "totalObservations" : "56",
+        "variables" : "2"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
